@@ -37,7 +37,8 @@ configurations.all {
         if (details.requested.group == 'com.android.support' && details.requested.name != 'support-annotations') {
 //            details.useVersion '25.0.0'
 //            details.useVersion '25.4.0'
-            details.useVersion '26.0.0-beta2'
+//            details.useVersion '26.0.0-beta2'
+//            details.useVersion '27.1.1'
         }
     }
 }
